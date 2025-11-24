@@ -34,6 +34,6 @@
     	printf("%f", c);
     }
 ## 3. Результат работы программы
-<img  width=“250” src="https://github.com/MariaLavrova6242/Lab4/blob/master/Lab4.png" >
+<img  width=“250” src="https://github.com/MariaLavrova6242/Lab5/blob/master/Lab5.png" >
 ## 4. Информация о разработчике
 Лаврова Мария, бИПТ-252# Lab5
